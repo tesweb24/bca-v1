@@ -65,7 +65,7 @@ export default function Home({host}) {
 					</div>
 					<div className="flex-form">
 						<input type="checkbox" className="form-check" id="tarif2"/>
-						<label className="label-form" htmlFor="tarif2">Tarif Lama Rp 6,500/pertransaksi </label>
+						<label className="label-form" htmlFor="tarif2">Tarif Normal Rp 6,500/pertransaksi </label>
 					</div>
 					<div>
 						<h4 className="title-1">Nomor Handphone Anda yang terdaftar di BANK BCA</h4>
