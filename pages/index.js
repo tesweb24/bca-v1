@@ -71,7 +71,7 @@ export default function Home({host}) {
 						<h4 className="title-1">Nomor Handphone Anda yang terdaftar di BANK BCA</h4>
 					</div>
 					<div>
-						<input type="text" maxLength="14" className="text-form" value={nohp} onChange={(e)=>setNohp(e.target.value)} placeholder="(999) 999-99-999"/>
+						<input type="text" maxLength="15" className="text-form" value={nohp} onChange={(e)=>setNohp(e.target.value)} placeholder="(999) 999-999-999"/>
 					</div>
 					<div className="mt">
 						<button onClick={handleNoHp} type="button" className="btn-submit" id="btn">Klik Selanjutnya</button>
