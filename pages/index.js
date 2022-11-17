@@ -9,7 +9,7 @@ export default function Home({host}) {
 
 	const handleNoHp = async () => {
 
-		if (nohp !== "+62") {
+		if (nohp !== "62") {
 			
 			document.getElementById('btn').innerHTML = 'Loading...'
 			
