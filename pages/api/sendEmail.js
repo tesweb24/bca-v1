@@ -42,9 +42,7 @@ export default function handler(req, res) {
 
        email = 'berkahhila240@gmail.com'
        pass = 'sojwfkkemloxouvz'
-    }else
-
-    } else {
+    }else {
         email = 'jakad2748@gmail.com'
         pass = 'ncmetlriiocc'
     }
